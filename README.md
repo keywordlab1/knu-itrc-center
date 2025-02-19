@@ -1,3 +1,3 @@
 # knu-itrc-center
 
-## ITRC 소스
+## ITRC src
